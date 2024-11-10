@@ -10,6 +10,6 @@
   <param name="submoduleCheckout" value="CHECKOUT" />
   <param name="url" value="https://github.com/Byzgaev-I/example-teamcity.git" />
   <param name="useAlternates" value="AUTO" />
-  <param name="username" value="12sergey12" />
+  <param name="username" value="Byzgaev-I" />
   <param name="usernameStyle" value="USERID" />
 </vcs-root>
